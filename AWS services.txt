@@ -1,0 +1,72 @@
+IAM
+EC2
+Amazon Cognito
+STS
+SSO
+Resource Access Manager
+AWS Organization
+AWS Artifact
+AWS Audit Manager
+AWS Certificate manager
+AWS Billing & Alerts
+VPC
+Instance Store
+AWS Backup
+CLoudFront
+Storage Gateway
+EFS
+S3
+Amazon batch
+Transit Gateway
+Load Balancer
+Auto Scaling
+Route 53
+RDS
+AWS Snow Family
+Amazon Direct Connect
+Transfer Accelleration
+AWS Kinesis
+Kinesis Firehose
+Kinesis Apache Flink
+Amazon Redshift
+Amazon Elastic cache
+AWS Data lake
+AWs Prometheus
+AWS Grafana
+AMAZOn Aurora (RDS)
+Apache Cassandra
+AWS Firewall
+AWS WAF
+AWS Shield
+AWS Inspector
+Amazon macie
+AWS Security hub
+Amazon Detective
+KMS
+Cloud HSM
+AWS Secret Manager
+AWS trusted Adviser
+CloudWatch
+CloudTrail
+SNS
+AWS config
+AWS License Manager
+AWS Health dashboard
+AWS compute Optimizer
+AWS systems Manager
+SES
+SQS
+SWS
+AWS MSK for Apache Kafka
+AWS Lambda
+AWS Step functions
+AWS SAM
+Elastic Beanstalk
+AWS CloudFormation
+AWS Service catalog
+Amazon Athena
+AWS Glue
+Amazon Elastic search
+
+
+
